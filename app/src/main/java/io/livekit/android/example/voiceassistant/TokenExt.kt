@@ -1,8 +1,6 @@
 package io.livekit.android.example.voiceassistant
 
-// TODO: Add your Sandbox ID here
-
-const val sandboxID = "aisha-1suj7a"
-const val hardcodedUrl = ""
-const val hardcodedToken = ""
+const val sandboxID = ""
+const val hardcodedUrl = "wss://aisha-bj4wst6w.livekit.cloud"
+const val hardcodedToken = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2aWRlbyI6eyJyb29tSm9pbiI6dHJ1ZSwicm9vbSI6ImFpc2hhLXJvb20iLCJjYW5QdWJsaXNoIjp0cnVlLCJjYW5TdWJzY3JpYmUiOnRydWUsImNhblB1Ymxpc2hEYXRhIjp0cnVlfSwic3ViIjoidXNlcjEiLCJpc3MiOiJBUElzSGo0dXRMNGNpR0siLCJuYmYiOjE3ODIyMDg1MzEsImV4cCI6MTc4NDgwMDUzMX0.lDNPu2eygNgl9lTEegKPlZNfthYOIaNrnpFPGZH53XU"
 const val agentName = "my-agent"
